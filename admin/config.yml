@@ -1,6 +1,8 @@
 backend:
   name: github
   repo: innovations-and-solutions/innovations-and-solutions.github.io
+  branch: master
+  site_domain: modest-brown-711afa.netlify.com
 publish_mode: editorial_workflow
 media_folder: "img"
 collections:
