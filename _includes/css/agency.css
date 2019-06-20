@@ -10,6 +10,21 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.solution-list {
+    display: flex;
+}
+
+.solution-item {
+    flex-grow: 1;
+    position: relative;
+}
+
+.solution-item h3 {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
