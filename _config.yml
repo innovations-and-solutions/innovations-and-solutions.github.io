@@ -6,6 +6,15 @@ title: Innovations and Solutions
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
+solutions:
+- title: Lighter websites
+  image: https://solar.lowtechmagazine.com/dithers/solar-powered-server-detail-2.png
+- title: Meditation
+  image: https://solar.lowtechmagazine.com/dithers/solar-powered-server-detail-2.png
+- title: Psychedelics
+  image: https://solar.lowtechmagazine.com/dithers/solar-powered-server-detail-2.png
+- title: Code
+  image: https://solar.lowtechmagazine.com/dithers/solar-powered-server-detail-2.png
 
 # Team names, titles and social links
 people:
